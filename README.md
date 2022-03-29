@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eoabdulhalim
+- 👀 I’m interested in data 
+- 🌱 I’m currently learning ML 
+- 💞️ I’m looking to collaborate on data analysis projects
+- 📫 How to reach me eoabdulhalim@gmail.com
