@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eoabdulhalim
-- 👀 I’m interested in data 
+- 👋 Hi, I’m Essam Omar 
+- 👀 I’m interested in data and Ai 
 - 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me eoabdulhalim@gmail.com
