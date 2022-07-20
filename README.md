@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Essam Omar 
+- 👋 Hi, I’m Essam Omar a data analyst who tries to learn how machines learn
 - 👀 I’m interested in data and Ai 
 - 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on data analysis projects
