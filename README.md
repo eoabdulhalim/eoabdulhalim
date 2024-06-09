@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me eoabdulhalim@gmail.com
-- My learning journey began with learning how to solve problems. I trained to solve problems using C++. Subsequently, I studied and researched various aspects of computer science, ranging from fundamental software studies like data structures, algorithms, databases, and OOP to hardware studies, exploring how a computer works internally. I enjoyed acquiring a solid foundation in each field, even if I may not apply it directly in my field of study. After my third year, while studying statistics alongside computer science in college, I was passionate about data and how AI uses it in predictions and learning.
+- Passionate about data and how Ai uses it in predictions and learning.
+- I aim to train machines to think and learn, but not more than us...
