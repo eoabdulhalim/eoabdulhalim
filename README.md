@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Essam Omar a data analyst who tries to learn how machines learn
+- 👋 Hi, I’m Essam Omar a Data Analyst who tries to learn how machines learn
 - 👀 I’m interested in data and Ai 
-- 🌱 I’m currently learning ML 
-- 💞️ I’m looking to collaborate on data analysis projects
+- 🌱 I’m currently learning Deep Learning 
+- 💞️ I’m looking to collaborate on data analysis/data science/machine learning projects
 - 📫 How to reach me eoabdulhalim@gmail.com
 - Passionate about data and how Ai uses it in predictions and learning.
 - I aim to train machines to think and learn, but not more than us...
