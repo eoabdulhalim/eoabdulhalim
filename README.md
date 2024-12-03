@@ -1,5 +1,5 @@
 - 👋 I’m Essam Omar a Data Scientist | Machine Learning Engineer 
-- 👀 I’m interested in data and Ai 
+- 👀 I’m interested in Ai and Data 
 - 🌱 I’m currently learning NLP 
 - 💞️ I’m looking to collaborate on data analysis/data science/machine learning projects
 - 📫 How to reach me eoabdulhalim@gmail.com
